@@ -1,10 +1,13 @@
-- What this PR does / why we need it:
-- If it’s GUI task, link to the screenshots, gifs or short video:
-- What to look for in a review:
-- How to test:
+### What this PR does / why we need it:
 
-**Checklist:**
+### Is this GUI task? Attach a screenshots or short video with changes:
 
-- [ ]  Tested locally
-- [ ]  Tests added/updated
-- [ ]  Documentation added
+### What to look for in a review:
+
+### How to test it:
+
+## **Checklist:**
+
+- [ ]  I checked the changes locally
+- [ ]  I created/updated tests
+- [ ]  I created/updated the technical documentation
