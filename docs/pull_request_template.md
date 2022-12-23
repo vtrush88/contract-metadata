@@ -7,7 +7,7 @@
 ### What to look for in a review:
 
 
-### How to test it:
+### What and how to test from the non-obvious:
 
 
 ## **Checklist:**
