@@ -1,16 +1,16 @@
 ### What this PR does / why we need it:
 
 
-### Is this a GUI task? Attach screenshots or short video with changes:
+## If the changes are visual, attach a screenshot or a short video to make it easier for the reviewer to understand:
 
 
-### What to look for in a review:
+### What to pay special attention to the review:
 
 
 ### What and how to test from the non-obvious:
 
 
-## **Checklist:**
+## Checklist:
 
 - [ ]  I checked the changes locally
 - [ ]  I created/updated tests
