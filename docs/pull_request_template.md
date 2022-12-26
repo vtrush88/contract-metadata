@@ -4,7 +4,7 @@
 
 ### Demo
 
-// If thee are visual changes add screenshots or record a [loom](https://www.loom.com/).
+// If thee are visual changes, attach a link to a specific section on preview stand / add screenshots / record a [loom](https://www.loom.com/).
 
 ### Code review notes
 
@@ -16,6 +16,6 @@
 
 ### Checklist:
 
-- [ ]  Checked the changes locally.
-- [ ]  Created/updated unit tests.
-- [ ]  Created/updated README.md.
+- [ ]  Checked the changes locally
+- [ ]  Created/updated tests (e2e / unit)
+- [ ]  Created/updated the technical documentation (README.md / Storybook / etc.)
