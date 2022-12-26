@@ -1,13 +1,21 @@
-### What this PR does / why we need it:
-- (Even if the task is described in detail in the bug tracker, briefly describe its essence here)
+### Description
 
-### What to pay special attention on the review:
+// Briefly note most valuable changes in what you did and why we need it, even if the task was described in detail in the task tracker.
 
+### Demo
 
-### What and how to test from the non-obvious:
+// If thee are visual changes, attach a link to a specific section on preview stand / add screenshots / record a [loom](https://www.loom.com/).
 
+### Code review notes
 
-## Check yourself:
+// Describe all uncertain decisions you made code-wise, e.g. readability vs performance.
 
-- [ ]  I checked the changes locally
-- [ ]  I created/updated tests (if it's needed)
+### Testing notes
+
+// List all possible edge cases and how to test them.
+
+### Checklist:
+
+- [ ]  Checked the changes locally
+- [ ]  Created/updated tests (e2e / unit)
+- [ ]  Created/updated the technical documentation (README.md / Storybook / etc.)
