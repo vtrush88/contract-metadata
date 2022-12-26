@@ -1,7 +1,7 @@
 ### What this PR does / why we need it:
 
 
-### If the changes are visual, attach a screenshot or a short video to make it easier for the reviewer to understand:
+### If the changes are visual, attach a screenshot/short video:
 
 
 ### What to pay special attention to the review:
