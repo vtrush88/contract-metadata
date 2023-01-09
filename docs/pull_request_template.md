@@ -21,4 +21,4 @@
 - [ ]  Checked the changes locally.
 - [ ]  Created/updated tests (e2e / unit).
 - [ ]  Created/updated the technical documentation (README.md / Storybook / etc.).
-- [ ]  Affects / requires changes in other services (Matomo / Sentry / CloudFlare / etc.)
+- [ ]  Affects / requires changes in other services (Matomo / Sentry / CloudFlare / etc.).
